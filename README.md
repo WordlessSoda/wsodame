@@ -51,9 +51,11 @@
 ## 图库版权
 
 网站摄影图片来源：[文传影视工作室微信公众号](http://mp.weixin.qq.com/mp/homepage?__biz=MzI5ODY0NzgwMA==&hid=1&sn=6addcbb26d5250ce2fd2705c94a84926&scene=18#wechat_redirect)
-运营报告部分图片来源：自制截图
+运营报告分类下的文章图片来源均为自制截图
 
 ## 图库风格及配色
+![媒体库](/img/media.png)
+图库中除去版权属于文传影视工作室的图片，主要选取暗色图片作为文章的特色图片与头图，与黑白红主色搭配，更加突出图片在网站的份量。
 
 ## 云端架站踩坑图文文章
 - [x] 3篇详细步骤的云端架站踩坑图文文章
@@ -65,7 +67,28 @@
 
 1. 网站配色，背景及字体的对比度 及可读性
 
+![colour](/img/colour.png)
+网站配色以黑白红为主色，色彩反差较大，对比度高，其中：
+
+- 页首背景颜色 #000000 黑
+- 菜单文字颜色 #ffffff 白
+- 主要文字颜色 #d1331b 红
+
+首页文章图片摘要展示部分以无线框，圆角设计为主
+
 2. Animate it! 及Siteorigin
+
+- Animate it!
+  - 首页文章显示为淡入效果
+  - 展示请移步：https://wsoda.me/
+- Siteorigin
+  - 使用Posts Grid分类展示作品与文章
+    - [作品展示](https://wsoda.me/display/)
+    - [文章教程](https://wsoda.me/articles/)
+    - [网站运营](https://wsoda.me/web-operation/)
+      - 例子
+      ![Siteorigin-1](/img/Siteorigin-1.png)
+      ![Siteorigin-2](/img/Siteorigin-2.png)
 
 ## 云端架站
 
@@ -100,15 +123,19 @@
 
 - 百度
 
+
 ## SEO优化
 
 
 ## 用户研究成果及设计改进
 1.用户访谈
 
+[录音文件](/recding)
 2.AB测试
 
+
 ## 定制化
+
 - 版权保护插件：[WP-Copyright-Protection](https://wordpress.org/plugins/wp-copyright-protection/)
   ![WP-Copyright-Protection](/img/wp-cp.png)
   - 禁用右键单击
@@ -118,6 +145,7 @@
   - 禁用复制快捷键
   - iframe保护可让您的网站脱离iframe
   - **保护文传影视工作室的原创摄影作品，使其无法被复制保存，保护版权。**
+  - 例子：在[玫瑰芸香与古典中的“她” |人像摄影](https://wsoda.me/archives/roses-and-rue/)这篇文章中无法进行右键单击，文本选择、复制等操作，有效保护图片版权。
 
 - 将jpeg/png等图片转换为WebP的插件：[WebP Express](https://wordpress.org/plugins/webp-express/)
   ![WebP Express](/img/wp-webp.png)
