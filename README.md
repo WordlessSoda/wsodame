@@ -59,9 +59,9 @@
 
 ## 云端架站踩坑图文文章
 - [x] 3篇详细步骤的云端架站踩坑图文文章
-- [申请Github学生开发包-WordPress云端架站（一）](https://wsoda.me/blog/2019/05/21/wp-website1/)
-- [Digital Ocean架站-WordPress云端架站（二）](https://wsoda.me/blog/2019/05/24/wp-website2/)
-- [网站域名配置-WordPress云端架站（三）](https://wsoda.me/blog/2019/05/24/wp-website3/)
+- [申请Github学生开发包-WordPress云端架站（一）](https://wsoda.me/archives/wp-website1/)
+- [Digital Ocean架站-WordPress云端架站（二）](https://wsoda.me/archives/wp-website2/)
+- [网站域名配置-WordPress云端架站（三）](https://wsoda.me/archives/wp-website3/)
 
 ## 平面设计
 
